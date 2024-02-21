@@ -1,0 +1,2 @@
+# Calculation_of_Residual_Stresses_and_Deformations
+ 
