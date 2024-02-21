@@ -73,7 +73,7 @@
 ### Визуальное сравнение результатов расчетов CORSAD и Ansys
 
 <img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/8ec411da-3edc-434b-b7ce-3729884cb399" width="400">
-<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/4bd3c359-27be-4412-be02-449ef4efec71" width="400">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/4bd3c359-27be-4412-be02-449ef4efec71" width="300">
 
 ## Demo
 <img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_22-06-2021_025952.gif" width="500">
