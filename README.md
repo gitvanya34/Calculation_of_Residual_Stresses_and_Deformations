@@ -36,20 +36,45 @@
 При аддитивном производстве сложных металлических изделий слой металлического порошка поэтапно нагревается и охлаждается. После нанесения следующего слоя предыдущий подвергается повторному нагреву, в результате происходит сплавление двух слоев в единое целое. К окончанию печати все слои подвергались множественному изменению температуры, приводящему к появлению в детали остаточных деформаций. 
 Неравномерное нанесение порошка, а также циклическое тепловое сжатие и расширение провоцирует образование дефекта микроструктуры. На уровне макроструктуры возможно появление дополнительных деформаций, обусловленных сложной формой детали или конструкцией опор. Эти и многие другие варианты событий могут стать причиной сбоев печати: деформации, нарушение заданных размеров, растрескивание, разломы.
 
-<img src="[/Docs/image2.gif](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/aa212c30-13e9-4cbf-b42b-b18e30cdca30)" alt="Рисунок 2 —  Последствия остаточного напряжения" width="400">
-### Аналитические формулы 
-
-![image12](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/2a9e3106-59da-48b9-950a-82120c425952)
-
-![image21](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/5e74297d-8c14-4a56-bd00-101bec224c2c)
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/aa212c30-13e9-4cbf-b42b-b18e30cdca30" alt="Рисунок 2 —  Последствия остаточного напряжения" width="400">
 
 
-![image10](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/b17fabb0-60b0-411a-ace3-cb7fa5d4a574)
+### IDEF0 
+
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0223f867-119d-49d9-8108-51b067c209e2" width="300">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0f6c6b3b-ab8f-4cd9-8015-ff24e76406da" width="300">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/bacbfdb9-9465-4159-aab9-0414cc1e9aca" width="300">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/5fb5705a-3d58-4704-b225-26b9952075e5" width="300">
+
+### Диаграмма варинатов использования 
+
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/a4b07aa3-2e77-4b79-b9e8-8182932c2175" width="300">
+
+### Диаграмма классов
+
+<img width="878" alt="ClassDiagram1" src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/358796b2-fc44-4664-b6df-564a01513da0">
+
+### Мат.модель в общем виде
+
+Представление тензора
+
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/5e74297d-8c14-4a56-bd00-101bec224c2c" width="400">
+
+Трехмерное уравнение теплопроводности
+
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/2a9e3106-59da-48b9-950a-82120c425952" width="400">
+
+![me](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_23-06-2021_005411.gif)
 
 ### Использование многопоточности
-![image14](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/6669c0c5-7681-4706-bfd5-05a92c4bb76e)
 
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/6669c0c5-7681-4706-bfd5-05a92c4bb76e" width="400">
+
+### Визуальное сравнение результатов расчетов CORSAD и Ansys
+
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/8ec411da-3edc-434b-b7ce-3729884cb399" width="400">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/4bd3c359-27be-4412-be02-449ef4efec71" width="400">
 
 ## Demo
 ![me](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_22-06-2021_025952.gif)
-![me](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_23-06-2021_005411.gif)
+
