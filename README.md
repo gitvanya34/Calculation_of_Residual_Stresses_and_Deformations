@@ -28,8 +28,8 @@
 выполнится.
 
 На рисунке 1 продемонстрирована схема устройства 3D-принтера технологии селективного лазерного спекания.
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/05a5ccc6-00ac-43a5-a097-da75216dfdb2" width="400">
 
-![Рисунок 1 – Схема SLS 3D-принтера](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/05a5ccc6-00ac-43a5-a097-da75216dfdb2)
 ![Анимация 1 —  Процесс SLM производства](/Docs/image2.gif)
 
 
