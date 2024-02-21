@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/KnN/yE1uNfx4/SsM2CUe+AzzPAV9CZttLuNuOOHIt1dIFb70Yxc/xlSzM9ehA/SkjNnotAIMDrgMerCSTjRw==",
+  "success": true,
+  "projectFilePath": "D:\\StudentData\\Project\\Program\\VKR-2021\\CoRSaD\\CalculationStressLibrary\\CalculationStressLibrary\\CalculationStressLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\sharpgl\\3.1.1\\sharpgl.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

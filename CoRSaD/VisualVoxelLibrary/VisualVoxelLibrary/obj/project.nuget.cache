@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9xYP3h7CQHGmdEjJmjxd2LDU2s2qJgmsi1HxBcLprJ/U22fMp7JrJqFY4aZs3c7ZdUGmRyLhfVJQu8J9I9BCQ==",
+  "success": true,
+  "projectFilePath": "D:\\StudentData\\Project\\Program\\VKR-2021\\CoRSaD\\VisualVoxelLibrary\\VisualVoxelLibrary\\VisualVoxelLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\sharpgl\\3.1.1\\sharpgl.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
