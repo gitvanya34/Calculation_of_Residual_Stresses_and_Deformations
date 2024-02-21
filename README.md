@@ -41,10 +41,10 @@
 
 ### IDEF0 
 
-<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0223f867-119d-49d9-8108-51b067c209e2" width="300">
-<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0f6c6b3b-ab8f-4cd9-8015-ff24e76406da" width="300">
-<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/bacbfdb9-9465-4159-aab9-0414cc1e9aca" width="300">
-<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/5fb5705a-3d58-4704-b225-26b9952075e5" width="300">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0223f867-119d-49d9-8108-51b067c209e2" width="400">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/0f6c6b3b-ab8f-4cd9-8015-ff24e76406da" width="400">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/bacbfdb9-9465-4159-aab9-0414cc1e9aca" width="400">
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/5fb5705a-3d58-4704-b225-26b9952075e5" width="400">
 
 ### Диаграмма варинатов использования 
 
@@ -52,7 +52,7 @@
 
 ### Диаграмма классов
 
-<img width="878" alt="ClassDiagram1" src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/358796b2-fc44-4664-b6df-564a01513da0">
+<img width="400" alt="ClassDiagram1" src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/358796b2-fc44-4664-b6df-564a01513da0">
 
 ### Мат.модель в общем виде
 
@@ -64,7 +64,7 @@
 
 <img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/2a9e3106-59da-48b9-950a-82120c425952" width="400">
 
-![me](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_23-06-2021_005411.gif)
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_23-06-2021_005411.gif" width="400">
 
 ### Использование многопоточности
 
@@ -76,5 +76,5 @@
 <img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/assets/55062517/4bd3c359-27be-4412-be02-449ef4efec71" width="400">
 
 ## Demo
-![me](https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_22-06-2021_025952.gif)
+<img src="https://github.com/gitvanya34/Calculation_of_Residual_Stresses_and_Deformations/blob/main/demo/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_22-06-2021_025952.gif" width="500">
 
